@@ -1,0 +1,8 @@
+.centertable{
+	display: table;
+	margin-left: 30%;
+	}
+
+.my_left_align {
+    text-align: left!important;
+}
